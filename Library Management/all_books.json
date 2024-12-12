@@ -1,0 +1,22 @@
+[
+    {
+        "title": "book 1",
+        "author": "author 1",
+        "isbn": 38529,
+        "year": 2023,
+        "price": 200,
+        "quantity": 20,
+        "bookAddedAt": "11-12-2024 22:06:44",
+        "bookLastUpdatedAt": "11-12-2024 22:08:00"
+    },
+    {
+        "title": "sjadjj",
+        "author": "fdhdh",
+        "isbn": 98890,
+        "year": 345,
+        "price": 567,
+        "quantity": 2,
+        "bookAddedAt": "12-12-2024 13:38:23",
+        "bookLastUpdatedAt": ""
+    }
+]
